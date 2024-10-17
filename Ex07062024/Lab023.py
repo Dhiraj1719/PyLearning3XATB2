@@ -60,3 +60,6 @@ print(shopping_list)
 my_list = [1,2,"bread",3.24,True]
 print(my_list)
 print(type(my_list))
+
+'''length start from 1 and
+index start from 0'''
